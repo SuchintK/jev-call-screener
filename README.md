@@ -51,7 +51,7 @@ See [architecture](docs/architecture.md) and the [threat model](docs/threat-mode
 
 ## Quick start
 
-Requires Go 1.22 or newer.
+Requires Go 1.27.1 or newer.
 
 ```bash
 git clone https://github.com/SuchintK/jev-call-screener.git
