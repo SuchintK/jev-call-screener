@@ -1,0 +1,23 @@
+categories:
+  promotional:
+    description: >
+      Unsolicited sales, marketing, product offers, loans,
+      credit cards, insurance and subscriptions.
+  wanted:
+    description: >
+      Deliveries, recruiters, interviews, appointments,
+      personal communication, existing account issues and
+      support for an existing service.
+  unclear:
+    description: >
+      Not enough information is available to confidently
+      determine the purpose of the call.
+messages:
+  greeting: >
+    Hi. This call is being screened.
+    Please briefly tell me what you're calling about.
+  clarification: >
+    Could you briefly provide a little more detail about
+    the reason for your call?
+  rejected: >
+    Thanks. They're not accepting promotional calls right now.
